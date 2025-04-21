@@ -1,8 +1,9 @@
 #!/bin/bash
 
-# Script to migrate the existing /home directory to a new NVMe partition
-# Author: Your Name
-# Date: YYYY-MM-DD
+# Script to move the existing partition/directory to a new partition/directory
+
+# Author: Rana
+# Date: 2025-04-21
 # Version: 1.0
 
 set -e  # Exit immediately if a command exits with a non-zero status
